@@ -207,7 +207,7 @@ export default {
       path1 : "/img/flower1.jpg",
       path2 : "/img/flower2.jpg",
       url1 : "https://www.naver.com",
-      url2 : "https://www.daum.com",
+      url2 : "https://www.daum.net",
       isActive : false,
       name : '홍길동',
       message : '',
