@@ -1,13 +1,13 @@
 <template>
-  <div>
-    <h4>Hello</h4>
-  </div>
+  <header>
+    <h4>Header</h4>
+  </header>
 </template>
 
 <script setup></script>
 
 <style scoped>
-div {
+header {
   border: 1px solid red;
 }
 </style>

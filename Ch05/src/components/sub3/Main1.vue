@@ -1,13 +1,13 @@
 <template>
-  <div>
-    <h4>Hello</h4>
-  </div>
+  <main>
+    <h4>Main1</h4>
+  </main>
 </template>
 
 <script setup></script>
 
 <style scoped>
-div {
-  border: 1px solid red;
+main {
+  border: 1px solid green;
 }
 </style>
